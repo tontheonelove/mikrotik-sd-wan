@@ -100,7 +100,7 @@ add disabled=no fib name=ISP2_conn
 - Check the route chosen at each time
 - Test Failover by shutting down the connection of one ISP and see if the Mikrotik can switch to another ISP
 ## 8. Set up monitoring and logging
--Finally, set up monitoring and logging to allow for quick troubleshooting if problems arise in the future, such as:
--Use System Logs to record the status of the connection and various activities
--Set up SNMP or The Dude (Mikrotik's network management tool) to check the status of the connection
+- Finally, set up monitoring and logging to allow for quick troubleshooting if problems arise in the future, such as:
+- Use System Logs to record the status of the connection and various activities
+- Set up SNMP or The Dude (Mikrotik's network management tool) to check the status of the connection
 
